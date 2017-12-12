@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>冷暖我自知</title>
+  
+  <subtitle>这个前端有点菜。</subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/TheNightElf/"/>
+  <updated>2017-12-12T07:43:49.000Z</updated>
+  <id>https://github.com/TheNightElf/</id>
+  
+  <author>
+    <name>冷暖我自知</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://github.com/TheNightElf/2017/12/12/EventEmitter/"/>
+    <id>https://github.com/TheNightElf/2017/12/12/EventEmitter/</id>
+    <published>2017-12-12T07:43:49.000Z</published>
+    <updated>2017-12-12T07:43:49.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
