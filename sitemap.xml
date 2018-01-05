@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://github.com/TheNightElf/2018/01/05/XSS%E5%92%8CCSRF%E9%98%B2%E5%BE%A1/</loc>
+    
+    <lastmod>2018-01-05T06:43:44.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://github.com/TheNightElf/2018/01/03/%E7%AE%AD%E5%A4%B4%E5%87%BD%E6%95%B0/</loc>
     
     <lastmod>2018-01-03T08:44:53.000Z</lastmod>
