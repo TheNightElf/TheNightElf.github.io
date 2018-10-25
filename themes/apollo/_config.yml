@@ -1,0 +1,12 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    GitHub: https://github.com/TheNightElf
+
+favicon: /favicon.ico
+
+# google-analytics:
+ga: UA-65933410-1
+
+# Copyright Infomation
+startyear: 2016
